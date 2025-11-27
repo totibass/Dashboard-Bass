@@ -1,0 +1,7 @@
+{
+  "name": "BassMaster 90 - Neuro Learning",
+  "description": "Programme d'apprentissage de basse 6 cordes sur 90 jours basé sur la répétition espacée et le rappel actif.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
